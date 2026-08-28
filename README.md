@@ -24,6 +24,25 @@ I am an independent Ethical Hacker and Bug Bounty Hunter dedicated to web securi
 * **Categories:** Web Exploitation, Reverse Engineering, Binary Exploitation (Pwn), Digital Forensics
 
 
-### 📜 Certifications & Achievements
 
-* **[Introduction to Cyber Security](https://certificates.simplicdn.net/share/10598548_10941284_1787879249373.pdf)** - *Issued by Simplilearn SkillUp* | ID: 10598548
+### 🏅 Certificates & Certifications
+
+#### 🚀 Simplilearn
+
+| Certificate | Preview |
+| :--- | :---: |
+| Introduction to Cyber Security | [📄 View Certificate](https://certificates.simplicdn.net/share/10598548_10941284_1787879249373.pdf) |
+
+#### 🌐 Cisco
+
+| Certificate | Preview |
+| :--- | :---: |
+| Computer Hardware Basics | [📄 View Certificate](#) |
+| Networking Basics | [📄 View Certificate](#) |
+| Introduction to Cybersecurity | [📄 View Certificate](#) |
+
+#### 📊 DataCamp
+
+| Certificate | Preview |
+| :--- | :---: |
+| Data Science / Cybersecurity Basics | [📄 View Certificate](#) |
