@@ -34,15 +34,15 @@ I am an independent Ethical Hacker and Bug Bounty Hunter dedicated to web securi
 | SkillBit Flash CTF Certificate | **MetaCTF** | [📄 View Certificate](https://compete.metactf.com/641/certificate) |
 | Certified Cybersecurity Foundations (CORE) | **Hackviser** | [📄 View Certificate](https://storage.hackviser.com/file/hackviser-prod/certificates/3884af197f844ff3919af127731a7735.pdf) |
 | Course Completion: Aircrack-ng | **Just Hacking** | [📄 View Certificate](https://learn.justhacking.com/completion/60c4e1d47ae2640e) |
-| Introduction to Cyber Security | **Simplilearn SkillUp** | [📄 View Certificate](file:///home/live/Downloads/Simpl!learn_skillUP%20certificate%20of%20iintroduction%20in%20cybersecurity.pdf) |
+| Introduction to Cyber Security | **Simplilearn SkillUp** | [📄 View Certificate](https://certificates.simplicdn.net/share/10598548_10941284_1787879249373.pdf) |
 
 #### 💀 Offensive Security & Red Teaming (Local Files)
 
 | Certificate | Domain / Focus | Preview |
 | :--- | :--- | :---: |
 | Ethical Hacker | **Cisco** | [🔒 Local PDF File](file:///home/live/Downloads/EthicalHackerUpdate20260828-21-5fjz5q.pdf) |
-| Red Team Leader (AV/EDR Evasion) | **Antivirus & EDR Bypass** | [🔒 Local PDF File](file:///home/live/Downloads/av_edr_evasion_certificate-2.pdf) |
-| OPSEC & Anonymity | **Operational Security** | [🔒 Local PDF File](file:///home/live/Downloads/opsec_anonymity_certificate-1.pdf) |
+| Red Team Leader (AV/EDR Evasion) | **Antivirus & EDR Bypass** | [🔒 Local PDF File](https://courses.redteamleaders.com/completion/c5ae3b1379815d27) |
+| OPSEC & Anonymity | **Operational Security** | [🔒 Local PDF File](https://courses.redteamleaders.com/completion/43a6bf7cd7fe82a2) |
 
 #### 🌐 Cisco (Academy Track)
 
