@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Web%2BPenetration%2BTester%2B%F0%9F%92%BB%3BBug%2BBounty%2BHunter%2B%F0%9F%8E%AF%3BActive%2BCTF%2BPlayer%2B%F0%9F%8F%81%22%2C%22color%22%3A%22%23f6d32d%22%7D%5D" alt="Typing SVG" />
+  <img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0.98&lines=%5B%7B%22text%22%3A%22Hi+there%21+I%27m+Mr+System%5CnWeb+Penetration+Tester+%F0%9F%92%BB%5CnBug+Bounty+Hunter+%F0%9F%8E%AF%5CnActive+CTF+Player+%F0%9F%8F%81%22%2C%22color%22%3A%22%23e01b24%22%2C%22fontSize%22%3A25%2C%22typingSpeed%22%3A0.27322404371584696%7D%5D" alt="Typing SVG" />
 </p>
 
 ### 🎯 About Me
