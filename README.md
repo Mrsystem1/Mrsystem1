@@ -27,13 +27,24 @@ I am an independent Ethical Hacker and Bug Bounty Hunter dedicated to web securi
 
 ### 🏅 Certificates & Certifications
 
-#### 🚀 Simplilearn
+#### 🎯 CTF Competitions & Foundations
 
-| Certificate | Preview |
-| :--- | :---: |
-| Introduction to Cyber Security | [📄 View Certificate](https://certificates.simplicdn.net/share/10598548_10941284_1787879249373.pdf) |
+| Certificate | Platform / Issuer | Preview |
+| :--- | :--- | :---: |
+| SkillBit Flash CTF Certificate | **MetaCTF** | [📄 View Certificate](https://compete.metactf.com/641/certificate) |
+| Certified Cybersecurity Foundations (CORE) | **Hackviser** | [📄 View Certificate](https://storage.hackviser.com/file/hackviser-prod/certificates/3884af197f844ff3919af127731a7735.pdf) |
+| Course Completion: Aircrack-ng | **Just Hacking** | [📄 View Certificate](https://learn.justhacking.com/completion/60c4e1d47ae2640e) |
+| Introduction to Cyber Security | **Simplilearn SkillUp** | [📄 View Certificate](https://simplicdn.net) |
 
-#### 🌐 Cisco
+#### 💀 Offensive Security & Red Teaming (Local Files)
+
+| Certificate | Domain / Focus | Preview |
+| :--- | :--- | :---: |
+| Ethical Hacker | **Cisco** | [🔒 Local PDF File](#) |
+| Red Team Leader (AV/EDR Evasion) | **Antivirus & EDR Bypass** | [🔒 Local PDF File](#) |
+| OPSEC & Anonymity | **Operational Security** | [🔒 Local PDF File](#) |
+
+#### 🌐 Cisco (Academy Track)
 
 | Certificate | Preview |
 | :--- | :---: |
