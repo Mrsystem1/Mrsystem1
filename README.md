@@ -22,3 +22,8 @@ I am an independent Ethical Hacker and Bug Bounty Hunter dedicated to web securi
 
 ### 🏁 CTF & WarGames Domain Expertise
 * **Categories:** Web Exploitation, Reverse Engineering, Binary Exploitation (Pwn), Digital Forensics
+
+
+### 📜 Certifications & Achievements
+
+* **[Introduction to Cyber Security](https://certificates.simplicdn.net/share/10598548_10941284_1787879249373.pdf)** - *Issued by Simplilearn SkillUp* | ID: 10598548
