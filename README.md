@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://demolab.com+💀;Web+Penetration+Tester+💻;Bug+Bounty+Hunter+🎯;Active+CTF+Player+🏁" alt="Typing SVG" />
+  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Web%2BPenetration%2BTester%2B%F0%9F%92%BB%3BBug%2BBounty%2BHunter%2B%F0%9F%8E%AF%3BActive%2BCTF%2BPlayer%2B%F0%9F%8F%81%22%2C%22color%22%3A%22%23f6d32d%22%7D%5D" alt="Typing SVG" />
 </p>
 
 ### 🎯 About Me
